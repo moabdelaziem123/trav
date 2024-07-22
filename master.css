@@ -160,8 +160,8 @@ header {
 
 .home-text p {
     color: #ccc;
-    font-size: 16px;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: 500;
     line-height: 2;
 }
 
@@ -209,6 +209,7 @@ header {
         height: 100%;
         padding: 100px 2%;
         text-align: center;
+        width: 100%;
     }
 
 
@@ -225,8 +226,8 @@ header {
 
     .home p {
         font-size: 15px;
-        line-height: 2;
-        margin: 20px 0;
+        line-height: 1.5;
+        margin: 40px 0;
     }
 
     .home-btn {
@@ -430,10 +431,10 @@ header {
         height: 100%;
     }
 
-    .about-img img {
-        display: block;
-        width: 100%;
-        height: 100%;
+.about-img img {
+display: block;
+width: 100%;
+height: 100%;
     }
 
 .about-text {
@@ -442,7 +443,7 @@ width: 100%;
 padding: 0 2%;
 }
 
-    .about-text h1{
+.about-text h1{
 font-size: 50px;
 line-height: 1.5;
 letter-spacing: 5px;
